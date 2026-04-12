@@ -3,7 +3,7 @@ import { TeamMember } from "@/types";
 export const aboutIntro = {
   title: "About Buona Salute Global Initiatives",
   description:
-    "Buona Salute Global Initiatives was founded with a singular vision: to ensure that no person is denied access to medicine because of poverty. Operating in Uganda, we bring together communities, health professionals, and partners to create a sustainable model for healthcare access — focusing on chronic non-communicable diseases such as Hypertension, Diabetes, and Cancer.",
+    "Buona Salute Global Initiatives is a health-focused NGO dedicated to improving access to care for people affected by non-communicable diseases in Uganda. Access to Medicine Through Collective Action defines our work. We focus on the urban and rural poor who cannot afford long-term treatment and medication — especially women, orphans, refugees, the elderly, and low-income households.",
 };
 
 export const missionIdentity = {
