@@ -1,7 +1,7 @@
 import { HeroData, FocusArea, ImpactMetric } from "@/types";
 
 export const heroData: HeroData = {
-  headline: "Restoring Hope For Uganda's Poor Living With Non Communicable Disease Acess Medicine Through Collective Action",
+  headline: "Restoring Hope Through Access to Essential Medicines for Uganda’s Poor Living with Non-Communicable Diseases",
   tagline: "Access to Medicine Through Collective Action",
   subheading:
     "Buona Salute Global Initiatives supports the urban and rural poor — including women, orphans, refugees, the elderly, and vulnerable families — through community-based patient associations and innovative models for affordable medication.",
@@ -18,7 +18,7 @@ export const heroData: HeroData = {
 export const whatMakesUsDifferent = {
   title: "Access to Medicine Through Collective Action",
   description:
-    "At Buona Salute, we organize patients living with non-communicable diseases — primarily Hypertension, Diabetes, and Cancer — into community-based associations within the same administrative units or those served by the same government health centres. Through this approach, we create a sustainable solution to the cost barrier of treatment.",
+    "At Buona Salute, we organize patients living with non-communicable diseases — primarily Hypertension, Diabetes, and Cancer — into community-based associations within the same administrative units or those served by the same government health centres. Through this approach, we make access to Essential Medicines easier",
   points: [
     "Mobilize and sensitize patients within their communities",
     "Link patients to government health centres for diagnosis and prescriptions",
