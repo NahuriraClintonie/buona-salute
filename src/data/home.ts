@@ -1,7 +1,7 @@
 import { HeroData, FocusArea, ImpactMetric } from "@/types";
 
 export const heroData: HeroData = {
-  headline: "Restoring Hope and Access to Treatment for Uganda's Poor Living with Chronic Diseases",
+  headline: "Restoring Hope For Uganda's Poor Living With Non Communicable Disease Acess Medicine Through Collective Action",
   tagline: "Access to Medicine Through Collective Action",
   subheading:
     "Buona Salute Global Initiatives supports the urban and rural poor — including women, orphans, refugees, the elderly, and vulnerable families — through community-based patient associations and innovative models for affordable medication.",
@@ -18,7 +18,7 @@ export const heroData: HeroData = {
 export const whatMakesUsDifferent = {
   title: "Access to Medicine Through Collective Action",
   description:
-    "At Buona Salute, we organize patients living with chronic non-communicable diseases — primarily Hypertension, Diabetes, and Cancer — into community-based associations within the same administrative units or those served by the same government health centres. Through this approach, we create a sustainable solution to the cost barrier of treatment.",
+    "At Buona Salute, we organize patients living with non-communicable diseases — primarily Hypertension, Diabetes, and Cancer — into community-based associations within the same administrative units or those served by the same government health centres. Through this approach, we create a sustainable solution to the cost barrier of treatment.",
   points: [
     "Mobilize and sensitize patients within their communities",
     "Link patients to government health centres for diagnosis and prescriptions",
@@ -31,7 +31,7 @@ export const whatMakesUsDifferent = {
 export const briefAbout = {
   title: "About Buona Salute",
   description:
-    "Buona Salute Global Initiatives is a health-focused NGO dedicated to improving access to care for people affected by chronic non-communicable diseases — including Hypertension, Diabetes, and Cancer — in Uganda. We focus on the urban and rural poor who cannot afford long-term treatment and medication — especially women, orphans, refugees, the elderly, and low-income households.",
+    "Buona Salute Global Initiatives is a health-focused NGO dedicated to improving access to care for people affected by non-communicable diseases — including Hypertension, Diabetes, and Cancer — in Uganda. We focus on the urban and rural poor who cannot afford long-term treatment and medication — especially women, orphans, refugees, the elderly, and low-income households.",
 };
 
 export const focusAreas: FocusArea[] = [
@@ -50,7 +50,7 @@ export const focusAreas: FocusArea[] = [
   {
     title: "Health Education",
     description:
-      "Sensitizing communities on chronic NCD prevention, treatment adherence, and healthy living for lasting wellbeing.",
+      "Sensitizing communities on NCD prevention, treatment adherence, and healthy living for lasting wellbeing.",
     icon: "school",
   },
   {

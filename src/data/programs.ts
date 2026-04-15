@@ -3,13 +3,13 @@ import { Program } from "@/types";
 export const programsIntro = {
   title: "Our Programs",
   description:
-    "Buona Salute runs focused programs designed to make healthcare affordable and accessible for people living with chronic non-communicable diseases — primarily Hypertension, Diabetes, and Cancer — through community-driven collective action.",
+    "Buona Salute runs focused programs designed to make healthcare affordable and accessible for people living with non-communicable diseases — primarily Hypertension, Diabetes, and Cancer — through community-driven collective action.",
 };
 
 export const flagshipProgram: Program = {
   title: "Access to Medicine Through Collective Action",
   description:
-    "Our flagship program brings together community members living with chronic NCDs into patient associations that pool resources to purchase medicines in bulk at significantly reduced prices. This model ensures that even the most vulnerable families — including the elderly — can access life-saving treatments.",
+    "Our flagship program brings together community members living with non-communicable diseases (NCDs) into patient associations that pool resources to purchase medicines in bulk at significantly reduced prices. This model ensures that even the most vulnerable families — including the elderly — can access life-saving treatments.",
   icon: "local_pharmacy",
   details: [
     "Community mobilization and patient group formation",

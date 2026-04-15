@@ -3,7 +3,7 @@ import { Testimonial } from "@/types";
 export const whoWeServeIntro = {
   title: "Who We Serve",
   description:
-    "We serve vulnerable populations living with chronic non-communicable diseases — primarily Hypertension, Diabetes, and Cancer — who are often excluded from consistent care. Through collective action, we ensure that no patient is left behind, treatment becomes affordable, and communities become part of the solution.",
+    "We serve vulnerable populations living with non-communicable diseases — primarily Hypertension, Diabetes, and Cancer — who are often excluded from consistent care. Through collective action, we ensure that no patient is left behind, treatment becomes affordable, and communities become part of the solution.",
 };
 
 export const targetCommunities = [
@@ -34,12 +34,12 @@ export const targetCommunities = [
   },
   {
     title: "The Elderly",
-    description: "Older persons who are disproportionately affected by chronic NCDs like Hypertension, Diabetes, and Cancer, often with limited financial means for sustained treatment.",
+    description: "Older persons who are disproportionately affected by NCDs like Hypertension, Diabetes, and Cancer, often with limited financial means for sustained treatment.",
     icon: "elderly",
   },
   {
-    title: "Chronic NCD Patients",
-    description: "Individuals managing chronic non-communicable diseases — particularly Hypertension, Diabetes, and Cancer — who need consistent, affordable medication.",
+    title: "NCD Patients",
+    description: "Individuals managing non-communicable diseases — particularly Hypertension, Diabetes, and Cancer — who need consistent, affordable medication.",
     icon: "monitor_heart",
   },
 ];

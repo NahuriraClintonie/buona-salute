@@ -49,7 +49,7 @@ export const teamMembers: TeamMember[] = [
   {
     name: "Placeholder Name",
     role: "Health Education Coordinator",
-    bio: "Develops and delivers health education programs on chronic disease prevention and management.",
+    bio: "Develops and delivers health education programs on non-communicable diseases (NCD) prevention and management.",
   },
   {
     name: "Placeholder Name",
