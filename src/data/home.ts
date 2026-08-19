@@ -4,7 +4,7 @@ export const heroData: HeroData = {
   headline: "Restoring Hope Through Access to Essential Medicines for Uganda’s Poor Living with Non-Communicable Diseases",
   tagline: "Access to Medicine Through Collective Action",
   subheading:
-    "Buona Salute Global Initiatives supports the urban and rural poor — including women, orphans, refugees, the elderly, and vulnerable families — through community-based patient associations and innovative models for affordable medication.",
+    "Salusperes Initiatives supports the urban and rural poor — including women, orphans, refugees, the elderly, and vulnerable families — through community-based patient associations and innovative models for affordable medication.",
   ctaPrimary: {
     label: "Join a Patient Group",
     href: "https://forms.google.com",
@@ -18,7 +18,7 @@ export const heroData: HeroData = {
 export const whatMakesUsDifferent = {
   title: "Access to Medicine Through Collective Action",
   description:
-    "At Buona Salute, we organize patients living with non-communicable diseases — primarily Hypertension, Diabetes, and Cancer — into community-based associations within the same administrative units or those served by the same government health centres. Through this approach, we make access to Essential Medicines easier",
+    "At Salusperes Initiatives, we organize patients living with non-communicable diseases — primarily Hypertension, Diabetes, and Cancer — into community-based associations within the same administrative units or those served by the same government health centres. Through this approach, we make access to Essential Medicines easier",
   points: [
     "Mobilize and sensitize patients within their communities",
     "Link patients to government health centres for diagnosis and prescriptions",
@@ -29,9 +29,9 @@ export const whatMakesUsDifferent = {
 };
 
 export const briefAbout = {
-  title: "About Buona Salute",
+  title: "About Salusperes Initiatives",
   description:
-    "Buona Salute Global Initiatives is a health-focused NGO dedicated to improving access to care for people affected by non-communicable diseases — including Hypertension, Diabetes, and Cancer — in Uganda. We focus on the urban and rural poor who cannot afford long-term treatment and medication — especially women, orphans, refugees, the elderly, and low-income households.",
+    "Salusperes Initiatives is a health-focused NGO dedicated to improving access to care for people affected by non-communicable diseases — including Hypertension, Diabetes, and Cancer — in Uganda. We focus on the urban and rural poor who cannot afford long-term treatment and medication — especially women, orphans, refugees, the elderly, and low-income households.",
 };
 
 export const focusAreas: FocusArea[] = [
@@ -72,7 +72,7 @@ export const kayonzaHighlight = {
   title: "Kayonza Pilot Project",
   subtitle: "A Proven Model in Action — Ntungamo District, Uganda",
   description:
-    "In Kayonza Sub-county, Ntungamo District, Buona Salute has implemented a pilot intervention demonstrating a practical and scalable solution to improve access to treatment for Diabetes Mellitus and Hypertension. The pilot has mobilized 164 patients under the Kayonza Diabetic and Pressure Association, served by Rwamanjonnyi Health Center III across three parishes.",
+    "In Kayonza Sub-county, Ntungamo District, Salusperes Initiatives has implemented a pilot intervention demonstrating a practical and scalable solution to improve access to treatment for Diabetes Mellitus and Hypertension. The pilot has mobilized 164 patients under the Kayonza Diabetic and Pressure Association, served by Rwamanjonnyi Health Center III across three parishes.",
   stats: [
     { label: "Patients Mobilized", value: "164", icon: "people" },
     { label: "Parishes Covered", value: "3", icon: "location_on" },
@@ -101,7 +101,7 @@ export const trustSignals = [
   },
   {
     title: "Registered & Compliant",
-    description: "Buona Salute is a fully registered NGO operating in compliance with Ugandan law and international best practices.",
+    description: "Salusperes Initiatives is a fully registered NGO operating in compliance with Ugandan law and international best practices.",
     icon: "verified",
   },
   {

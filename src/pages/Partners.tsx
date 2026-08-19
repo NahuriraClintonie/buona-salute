@@ -54,7 +54,7 @@ const Partners = () => {
       {/* Why Partner With Us */}
       <SectionWrapper alternate>
         <SectionHeader
-          title="Why Partner With Buona Salute"
+          title="Why Partner With Salusperes Initiatives"
           description="Our model is community-driven, transparent, and designed for lasting impact."
         />
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">

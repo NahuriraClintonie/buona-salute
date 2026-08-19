@@ -3,7 +3,7 @@ import { Program } from "@/types";
 export const programsIntro = {
   title: "Our Programs",
   description:
-    "Buona Salute runs focused programs designed to make healthcare affordable and accessible for people living with non-communicable diseases — primarily Hypertension, Diabetes, and Cancer — through community-driven collective action.",
+    "Salusperes Initiatives runs focused programs designed to make healthcare affordable and accessible for people living with non-communicable diseases — primarily Hypertension, Diabetes, and Cancer — through community-driven collective action.",
 };
 
 export const flagshipProgram: Program = {
@@ -72,7 +72,7 @@ export const kayonzaProject = {
   title: "Kayonza Pilot Project",
   subtitle: "A Proven Model in Action — Kayonza Sub-county, Ntungamo District, Uganda",
   summary:
-    "Buona Salute Global Initiatives has successfully implemented a pilot intervention in Kayonza Sub-county, Ntungamo District, demonstrating a practical and scalable solution to improve access to treatment for Diabetes Mellitus and Hypertension. The pilot is built on BSGI's core model: Access to Medicine Through Collective Action.",
+    "Salusperes Initiatives has successfully implemented a pilot intervention in Kayonza Sub-county, Ntungamo District, demonstrating a practical and scalable solution to improve access to treatment for Diabetes Mellitus and Hypertension. The pilot is built on BSGI's core model: Access to Medicine Through Collective Action.",
   coverage: {
     parishes: ["Kijubwe Parish", "Ruhega Parish", "Kabasheshe Parish"],
     patients: 164,

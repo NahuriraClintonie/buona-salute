@@ -1,10 +1,10 @@
-# Buona Salute Global Initiatives
+# Salusperes Initiatives
 
-A modern website for **Buona Salute Global Initiatives** — a community-driven organization empowering vulnerable communities in Uganda to access affordable, quality healthcare.
+A modern website for **Salusperes Initiatives** — a community-driven organization empowering vulnerable communities in Uganda to access affordable, quality healthcare.
 
 ## About
 
-Buona Salute connects patients, partners, and healthcare providers through community-led patient groups and bulk purchasing models that reduce medication costs by up to 60%.
+Salusperes Initiatives connects patients, partners, and healthcare providers through community-led patient groups and bulk purchasing models that reduce medication costs by up to 60%.
 
 ## Pages
 
@@ -54,4 +54,4 @@ src/
 
 ## License
 
-All rights reserved © Buona Salute Global Initiatives.
+All rights reserved © Salusperes Initiatives.

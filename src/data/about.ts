@@ -1,9 +1,9 @@
 import { TeamMember } from "@/types";
 
 export const aboutIntro = {
-  title: "About Buona Salute Global Initiatives",
+  title: "About Salusperes Initiatives",
   description:
-    "Buona Salute Global Initiatives is a health-focused NGO dedicated to improving access to care for people affected by non-communicable diseases in Uganda. Access to Medicine Through Collective Action defines our work. We focus on the urban and rural poor who cannot afford long-term treatment and medication — especially women, orphans, refugees, the elderly, and low-income households.",
+    "Salusperes Initiatives is a health-focused NGO dedicated to improving access to care for people affected by non-communicable diseases in Uganda. Access to Medicine Through Collective Action defines our work. We focus on the urban and rural poor who cannot afford long-term treatment and medication — especially women, orphans, refugees, the elderly, and low-income households.",
 };
 
 export const missionIdentity = {
@@ -22,7 +22,7 @@ export const missionIdentity = {
 export const founderStory = {
   title: "Our Founder's Story",
   content:
-    "Buona Salute was born from a deeply personal experience. Our founder witnessed firsthand the devastating impact of medicine scarcity in rural Uganda—where families had to choose between food and life-saving medication. This injustice sparked a movement: what if communities pooled their resources to negotiate affordable prices? That simple question became the foundation of our collective action model, now transforming healthcare access across dozens of communities.",
+    "Salusperes Initiatives was born from a deeply personal experience. Our founder witnessed firsthand the devastating impact of medicine scarcity in rural Uganda—where families had to choose between food and life-saving medication. This injustice sparked a movement: what if communities pooled their resources to negotiate affordable prices? That simple question became the foundation of our collective action model, now transforming healthcare access across dozens of communities.",
 };
 
 export const teamMembers: TeamMember[] = [

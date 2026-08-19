@@ -19,7 +19,7 @@ export const kayonzaPilot = {
   title: "Kayonza Pilot Project",
   subtitle: "A Proven Model in Action",
   summary:
-    "In Kayonza Sub-county, Ntungamo District, Buona Salute has implemented a pilot intervention demonstrating a practical and scalable solution to improve access to treatment for Diabetes Mellitus and Hypertension.",
+    "In Kayonza Sub-county, Ntungamo District, Salusperes Initiatives has implemented a pilot intervention demonstrating a practical and scalable solution to improve access to treatment for Diabetes Mellitus and Hypertension.",
   coverage: {
     parishes: ["Kijubwe Parish", "Ruhega Parish", "Kabasheshe Parish"],
     patients: 164,

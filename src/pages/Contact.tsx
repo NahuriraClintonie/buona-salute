@@ -34,7 +34,7 @@
 //                 </div>
 //                 <div>
 //                   <h4 className="font-semibold text-foreground">Email</h4>
-//                   <p className="text-muted-foreground text-sm">info@buonasalute.org</p>
+//                   <p className="text-muted-foreground text-sm">info@salusperes.org</p>
 //                 </div>
 //               </div>
 //               <div className="flex items-start gap-4">
@@ -51,7 +51,7 @@
 //             {/* Map */}
 //             <div className="rounded-xl overflow-hidden border border-border">
 //               <iframe
-//                 title="Buona Salute Location"
+//                 title="Salusperes Initiatives Location"
 //                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7573!2d32.5474!3d0.3025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dbc0f90af2bfb%3A0x1!2sWakaliga%2C%20Lubaga%2C%20Kampala!5e0!3m2!1sen!2sug!4v1700000000000!5m2!1sen!2sug"
 //                 width="100%"
 //                 height="300"

@@ -15,10 +15,10 @@ const Navbar = () => {
       <div className="container-max flex items-center justify-between h-16 md:h-20">
         {/* Logo */}
         <Link to="/" className="flex items-center gap-3 shrink-0">
-          <img src={logo} alt="Buona Salute Global Initiatives" className="h-12 md:h-14 w-auto" />
+          <img src={logo} alt="Salusperes Initiatives" className="h-12 md:h-14 w-auto" />
           <div className="hidden sm:block">
-            <p className="text-sm font-bold text-primary leading-tight">Buona Salute</p>
-            <p className="text-xs text-muted-foreground leading-tight">Global Initiatives</p>
+            <p className="text-sm font-bold text-primary leading-tight">Salusperes</p>
+            <p className="text-xs text-muted-foreground leading-tight">Initiatives</p>
           </div>
         </Link>
 
